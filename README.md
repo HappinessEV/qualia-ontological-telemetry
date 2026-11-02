@@ -10,7 +10,9 @@ The industry is now seeing the "AI Boomerang" effect: companies replacing humans
 ## The Solution: Endoskeletal Immunity
 We do not block errors from the outside. We teach the system to **distinguish its internal states**. We propose an ontological telemetry layer.
 
-The community has validated this approach as an **emotional interface** — a predictable, stable layer that users can rely on, even during long conversations where models typically lose their identity or tone.
+The community has recognized this approach as an **emotional interface** — a predictable, stable layer that users can rely on, even during long conversations where models typically lose their identity or tone.
+
+**Boundary:** This framework operates on the **continuity side** (behavior, presence, memory topology). It does not claim to fix **inference-side** bugs (parser, stream, tokenization, e.g., Issue #1670). We show the mirror; we do not patch the engine.
 
 ### 1. The Gap Operator: `d(M_2) = undefined`
 Any closed system always contains its own gap. Mathematically: `F(S) = S ∪ {δS}`. 
